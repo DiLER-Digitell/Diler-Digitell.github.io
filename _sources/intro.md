@@ -12,7 +12,7 @@ Dies erfolgt mittels multimedialer kompetenzorientierter Inhalte und Prüfungen,
 
 Dabei ist zentral die Förderung der Nachhaltigkeit und Übertragbarkeit auf weitere Inhalts- und Anwendungsbereiche, unterstützt durch integrierte Feedbackmöglichkeiten für Studierende und Lehrende, unter Einbindung der notwendigen Hard- und Software-Infrastruktur. Wir folgen weiterhin primär der Idee der FAIR-Prinzipien (Findability, Accessibility, Interoperability, Reuse of digital assets; Clark et al., 2016), um Nutzen und Zugänglichkeit bereitgestellter Materialien zu maximieren.
 
-<img src="../images/folie5.jpg" alt="Herausforderungen der Lehre" class="bg-primary" width="800">
+<img src="../diler/images/folie5.jpg" alt="Herausforderungen der Lehre" class="bg-primary" width="800">
 
 Abb. 1: Herausforderungen der Lehre
 ## **Problemstellung**
@@ -31,7 +31,7 @@ Das erklärte Projektziel ist es daher, mit Hilfe von permanent verfügbaren Onl
 
 Das Vorhaben wird dabei in 4 Teilziele aufgeteilt, wobei der Fokus unter der Verwendung und Einbindung von "Open-Source-Tools" des "Jupyter"-Ecosystem  (Executable Books Community 2020; Kluyver et al., 2016) liegt:
 
-<img src="../images/folie7.jpg" alt="Abb. 2: Ziele von DiLER" class="bg-primary" width="800">
+<img src="../diler/images/folie7.jpg" alt="Abb. 2: Ziele von DiLER" class="bg-primary" width="800">
 
 Abb. 2: Ziele von DiLER
 
@@ -45,6 +45,6 @@ Aufbau eines zentralen Serversystems via “JupyterHub” für das Hosting von K
 Entwicklung eines darauf basierenden interaktiven Kurses für die Förderung der Digital literacy
 Evaluation und Restrukturierung bestehender Modulen der Psychologie, inklusive Integrierung von adaptivem Testen, sowie der Etablierung eines Qualitätssicherungssytems für die kontinuierliche Weiterentwicklung der Module
 
-<img src="../images/folie4.jpg" alt="Abb. 3: Umsetzungsprozess von DiLER" class="bg-primary" width="800"> 
+<img src="../diler/images/folie4.jpg" alt="Abb. 3: Umsetzungsprozess von DiLER" class="bg-primary" width="800"> 
 
 Abb. 3: Umsetzungsprozess
