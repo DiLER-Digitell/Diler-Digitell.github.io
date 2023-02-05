@@ -12,8 +12,7 @@ Dies erfolgt mittels multimedialer kompetenzorientierter Inhalte und Prüfungen,
 
 Dabei ist zentral die Förderung der Nachhaltigkeit und Übertragbarkeit auf weitere Inhalts- und Anwendungsbereiche, unterstützt durch integrierte Feedbackmöglichkeiten für Studierende und Lehrende, unter Einbindung der notwendigen Hard- und Software-Infrastruktur. Wir folgen weiterhin primär der Idee der FAIR-Prinzipien (Findability, Accessibility, Interoperability, Reuse of digital assets; Clark et al., 2016), um Nutzen und Zugänglichkeit bereitgestellter Materialien zu maximieren.
 
-<img src="../diler/images/folie5.jpg" alt="Herausforderungen der Lehre" class="bg-primary" width="800">
-
+![Abb. 1: Herausforderungen der Lehre](https://drive.google.com/file/d/1jMTJIvfJVC8LWcMO6haexfdxCJ0jweWj)
 Abb. 1: Herausforderungen der Lehre
 ## **Problemstellung**
 
@@ -31,20 +30,19 @@ Das erklärte Projektziel ist es daher, mit Hilfe von permanent verfügbaren Onl
 
 Das Vorhaben wird dabei in 4 Teilziele aufgeteilt, wobei der Fokus unter der Verwendung und Einbindung von "Open-Source-Tools" des "Jupyter"-Ecosystem  (Executable Books Community 2020; Kluyver et al., 2016) liegt:
 
-<img src="../diler/images/folie7.jpg" alt="Abb. 2: Ziele von DiLER" class="bg-primary" width="800">
 
+![Abb. 2: Ziele von DiLER](https://drive.google.com/file/d/1xjqcP4LsDx8ZgTMG_meZTgxxoNPLQaEU)
 Abb. 2: Ziele von DiLER
 
 ## **Zielsetzung**
 
 
-![](https://drive.google.com/uc?export=view&id=1n4-mLjGajDdwutAEP4jtNmbYk9cGNBwM)
+![](https://drive.google.com/file/d/1awqTXr1-I_4BAiJ3B2k-1X3NrRZ8WlQy)
 
 Etablierung eines digitalen und interaktiven Frameworks (Jupyter Book) für die Lehre, basierend auf realen, offenen Datensätzen und open-source tools (“Jupyter-Framework”, “MNE”, “Nilearn” etc.), sowie die Bereitstellung des Frameworks als digitale Kursvorlage (“GitHub-Repository”)
 Aufbau eines zentralen Serversystems via “JupyterHub” für das Hosting von Kursen und Datensätzen, sowie für das automatische Auswerten und Bewerten von Aufgaben (“nbgrader”)
 Entwicklung eines darauf basierenden interaktiven Kurses für die Förderung der Digital literacy
 Evaluation und Restrukturierung bestehender Modulen der Psychologie, inklusive Integrierung von adaptivem Testen, sowie der Etablierung eines Qualitätssicherungssytems für die kontinuierliche Weiterentwicklung der Module
 
-<img src="../diler/images/folie4.jpg" alt="Abb. 3: Umsetzungsprozess von DiLER" class="bg-primary" width="800"> 
-
+![Abb. 3: Umsetzungsprozess](https://drive.google.com/file/d/1awqTXr1-I_4BAiJ3B2k-1X3NrRZ8WlQy)
 Abb. 3: Umsetzungsprozess
