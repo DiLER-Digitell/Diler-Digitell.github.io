@@ -38,7 +38,7 @@ Abb. 2: Ziele von DiLER
 ## **Zielsetzung**
 
 
-
+![](https://drive.google.com/uc?export=view&id=1n4-mLjGajDdwutAEP4jtNmbYk9cGNBwM)
 
 Etablierung eines digitalen und interaktiven Frameworks (Jupyter Book) für die Lehre, basierend auf realen, offenen Datensätzen und open-source tools (“Jupyter-Framework”, “MNE”, “Nilearn” etc.), sowie die Bereitstellung des Frameworks als digitale Kursvorlage (“GitHub-Repository”)
 Aufbau eines zentralen Serversystems via “JupyterHub” für das Hosting von Kursen und Datensätzen, sowie für das automatische Auswerten und Bewerten von Aufgaben (“nbgrader”)
