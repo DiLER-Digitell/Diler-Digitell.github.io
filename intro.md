@@ -11,8 +11,14 @@ Ziel von DiLER ist die Schaffung eines  Frameworks zur Bereitstellung, Bündelun
 Dies erfolgt mittels multimedialer kompetenzorientierter Inhalte und Prüfungen, die den gesamten empirischen Forschungsprozess am Beispiel verschiedener Anforderungsfelder des Psychologiestudiums abdecken.
 
 Dabei ist zentral die Förderung der Nachhaltigkeit und Übertragbarkeit auf weitere Inhalts- und Anwendungsbereiche, unterstützt durch integrierte Feedbackmöglichkeiten für Studierende und Lehrende, unter Einbindung der notwendigen Hard- und Software-Infrastruktur. Wir folgen weiterhin primär der Idee der FAIR-Prinzipien (Findability, Accessibility, Interoperability, Reuse of digital assets; Clark et al., 2016), um Nutzen und Zugänglichkeit bereitgestellter Materialien zu maximieren.
-
-![goal](../images/folie5.jpg)
+```{image} ../images/folie5.jpg
+:alt: Herausforderungen der Lehre
+:class: bg-primary mb-1
+:width: 800 px
+:align: center
+```
+```
+Abb. 1: Herausforderungen der Lehre
 ## **Problemstellung**
 
 “Digital literacy” (Santos und Serpa 2017; Tang und Chaw 2016) kann als die Fähigkeit, selbstständig Informationen aus digitalen Medien zu finden, zu evaluieren, zu kommunizieren und handzuhaben grob zusammengefasst werden (Shopova 2014). Diese ist nicht nur relevant, um mit der Komplexität, den begrenzten Zugänglichkeiten und Intransparenzen digitaler Infrastrukturen  umgehen zu können, sondern wird auch für das selbstständige Forschen in den empirischen Wissenschaften benötigt. Klassische Lehrkonzepte sind häufig nicht auf den Erwerb von Digital literacy ausgerichtet.
@@ -28,8 +34,12 @@ Die Komplexität von Ansätzen Artifizieller Intelligenz oder die Verwendung von
 Das erklärte Projektziel ist es daher, mit Hilfe von permanent verfügbaren Online-Ressourcen (Kursen, Vorlagen, Anleitungen & Workshops) Studierenden die Möglichkeit zu bieten eigenständig und unabhängig von zeitlichen, finanziellen oder örtlichen Restriktionen notwendige Kompetenzen des modernen, wissenschaftlichen Arbeitens zu erlernen (darunter Digital Literacy, Programmieren, Versionskontrolle und theoretische Grundlagen) um diese möglichst angemessen für ihre Forschungskarriere vorzubereiten.
 
 Das Vorhaben wird dabei in 4 Teilziele aufgeteilt, wobei der Fokus unter der Verwendung und Einbindung von "Open-Source-Tools" des "Jupyter"-Ecosystem  (Executable Books Community 2020; Kluyver et al., 2016) liegt:
-
-![Abb. 2: Ziele von DiLER](../images/folie7.jpg)
+```{image} ../images/folie7.jpg
+:alt: Abb. 2: Ziele von DiLER
+:class: bg-primary mb-1
+:width: 200px
+:align: center
+```
 Abb. 2: Ziele von DiLER
 
 ## **Zielsetzung**
@@ -41,6 +51,10 @@ Etablierung eines digitalen und interaktiven Frameworks (Jupyter Book) für die 
 Aufbau eines zentralen Serversystems via “JupyterHub” für das Hosting von Kursen und Datensätzen, sowie für das automatische Auswerten und Bewerten von Aufgaben (“nbgrader”)
 Entwicklung eines darauf basierenden interaktiven Kurses für die Förderung der Digital literacy
 Evaluation und Restrukturierung bestehender Modulen der Psychologie, inklusive Integrierung von adaptivem Testen, sowie der Etablierung eines Qualitätssicherungssytems für die kontinuierliche Weiterentwicklung der Module
-
-![Abb. 3: Umsetzungsprozess von DiLER](../images/folie4.jpg)
+```{image} ../images/folie4.jpg
+:alt: Abb. 3: Umsetzungsprozess von DiLER
+:class: bg-primary mb-1
+:width: 200px
+:align: center
+```
 Abb. 3: Umsetzungsprozess
