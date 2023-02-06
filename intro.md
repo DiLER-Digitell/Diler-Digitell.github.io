@@ -1,8 +1,9 @@
+![](https://felixkoerber.github.io/jb/_static/logo.png)
 # **Digital Literacy for Empirical Research**
 
 
  
-## **Open Educational Resource using multimodal competence-oriented content and examination**
+**Open Educational Resource using multimodal competence-oriented content and examination**
 ## **Projektvorstellung**
 
 
@@ -12,8 +13,8 @@ Dies erfolgt mittels multimedialer kompetenzorientierter Inhalte und Prüfungen,
 
 Dabei ist zentral die Förderung der Nachhaltigkeit und Übertragbarkeit auf weitere Inhalts- und Anwendungsbereiche, unterstützt durch integrierte Feedbackmöglichkeiten für Studierende und Lehrende, unter Einbindung der notwendigen Hard- und Software-Infrastruktur. Wir folgen weiterhin primär der Idee der FAIR-Prinzipien (Findability, Accessibility, Interoperability, Reuse of digital assets; Clark et al., 2016), um Nutzen und Zugänglichkeit bereitgestellter Materialien zu maximieren.
 
-![Abb. 1: Herausforderungen der Lehre](https://raw.githubusercontent.com/felixkoerber/DiLER/main/images/Folie5.JPG)
-Abb. 1: Herausforderungen der Lehre
+![Abb. 1: Herausforderungen der Lehre](https://raw.githubusercontent.com/DiLER-Digitell/Diler-Digitell.github.io/main/images/Folie5.JPG)
+*Abb. 1: Herausforderungen der Lehre*
 
 
 ## **Problemstellung**
@@ -32,8 +33,8 @@ Das erklärte Projektziel ist es daher, mit Hilfe von permanent verfügbaren Onl
 
 Das Vorhaben wird dabei in 4 Teilziele aufgeteilt, wobei der Fokus unter der Verwendung und Einbindung von "Open-Source-Tools" des "Jupyter"-Ecosystem  (Executable Books Community 2020; Kluyver et al., 2016) liegt:
 
-![Abb. 2: Ziele von DiLER](https://raw.githubusercontent.com/felixkoerber/DiLER/main/images/Folie7.JPG)
-Abb. 2: Ziele von DiLER
+![Abb. 2: Ziele von DiLER](https://raw.githubusercontent.com/DiLER-Digitell/Diler-Digitell.github.io/main/images/Folie7.JPG)
+*Abb. 2: Ziele von DiLER*
 
 
 
@@ -46,5 +47,5 @@ Aufbau eines zentralen Serversystems via “JupyterHub” für das Hosting von K
 Entwicklung eines darauf basierenden interaktiven Kurses für die Förderung der Digital literacy
 Evaluation und Restrukturierung bestehender Modulen der Psychologie, inklusive Integrierung von adaptivem Testen, sowie der Etablierung eines Qualitätssicherungssytems für die kontinuierliche Weiterentwicklung der Module.
 
-![Abb. 3: Umsetzungsprozess](https://raw.githubusercontent.com/felixkoerber/DiLER/main/images/Folie4.JPG)
-Abb. 3: Umsetzungsprozess
+![Abb. 3: Umsetzungsprozess](https://raw.githubusercontent.com/DiLER-Digitell/Diler-Digitell.github.io/main/images//Folie4.JPG)
+*Abb. 3: Umsetzungsprozess*
