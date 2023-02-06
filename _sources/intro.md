@@ -15,7 +15,7 @@ Dabei ist zentral die Förderung der Nachhaltigkeit und Übertragbarkeit auf wei
 <img src="../images/Folie5.JPG" alt="Abb. 1: Herausforderungen der Lehre" class="bg-primary" width="800px">
 Abb. 1: Herausforderungen der Lehre
 
-```{figure} ../images/C-3PO_droid.png
+```{figure} ../images/Folie7.png
 ---
 height: 150px
 name: directive-fig
