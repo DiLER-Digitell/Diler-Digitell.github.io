@@ -41,6 +41,8 @@ Das Vorhaben wird dabei in 4 Teilziele aufgeteilt, wobei der Fokus unter der Ver
 <img src="../images/Folie7.png" alt="Abb. 2: Ziele von DiLER" class="bg-primary" width="800px">
 Abb. 2: Ziele von DiLER
 
+[image](https://raw.githubusercontent.com/felixkoerber/DiLER/main/images/Folie7.JPG)
+
 ## **Zielsetzung**
 
 
