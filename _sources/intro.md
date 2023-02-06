@@ -22,6 +22,7 @@ name: directive-fig
 ---
 Here is my figure caption!
 ```
+
 ## **Problemstellung**
 
 “Digital literacy” (Santos und Serpa 2017; Tang und Chaw 2016) kann als die Fähigkeit, selbstständig Informationen aus digitalen Medien zu finden, zu evaluieren, zu kommunizieren und handzuhaben grob zusammengefasst werden (Shopova 2014). Diese ist nicht nur relevant, um mit der Komplexität, den begrenzten Zugänglichkeiten und Intransparenzen digitaler Infrastrukturen  umgehen zu können, sondern wird auch für das selbstständige Forschen in den empirischen Wissenschaften benötigt. Klassische Lehrkonzepte sind häufig nicht auf den Erwerb von Digital literacy ausgerichtet.
