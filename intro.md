@@ -15,6 +15,13 @@ Dabei ist zentral die Förderung der Nachhaltigkeit und Übertragbarkeit auf wei
 <img src="../images/Folie5.JPG" alt="Abb. 1: Herausforderungen der Lehre" class="bg-primary" width="800px">
 Abb. 1: Herausforderungen der Lehre
 
+```{figure} ../images/C-3PO_droid.png
+---
+height: 150px
+name: directive-fig
+---
+Here is my figure caption!
+```
 ## **Problemstellung**
 
 “Digital literacy” (Santos und Serpa 2017; Tang und Chaw 2016) kann als die Fähigkeit, selbstständig Informationen aus digitalen Medien zu finden, zu evaluieren, zu kommunizieren und handzuhaben grob zusammengefasst werden (Shopova 2014). Diese ist nicht nur relevant, um mit der Komplexität, den begrenzten Zugänglichkeiten und Intransparenzen digitaler Infrastrukturen  umgehen zu können, sondern wird auch für das selbstständige Forschen in den empirischen Wissenschaften benötigt. Klassische Lehrkonzepte sind häufig nicht auf den Erwerb von Digital literacy ausgerichtet.
@@ -31,7 +38,7 @@ Das erklärte Projektziel ist es daher, mit Hilfe von permanent verfügbaren Onl
 
 Das Vorhaben wird dabei in 4 Teilziele aufgeteilt, wobei der Fokus unter der Verwendung und Einbindung von "Open-Source-Tools" des "Jupyter"-Ecosystem  (Executable Books Community 2020; Kluyver et al., 2016) liegt:
 
-<img src="../images/Folie7.JPG" alt="Abb. 2: Ziele von DiLER" class="bg-primary" width="800px">
+<img src="../images/Folie7.png" alt="Abb. 2: Ziele von DiLER" class="bg-primary" width="800px">
 Abb. 2: Ziele von DiLER
 
 ## **Zielsetzung**
