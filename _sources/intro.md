@@ -1,9 +1,9 @@
 ![](https://felixkoerber.github.io/jb/_static/logo.png)
-# **Digital Literacy for Empirical Research**
-
+# Digital Literacy for Empirical Research
 
  
 **Open Educational Resource using multimodal competence-oriented content and examination**
+
 ## **Projektvorstellung**
 
 
@@ -14,6 +14,7 @@ Dies erfolgt mittels multimedialer kompetenzorientierter Inhalte und Prüfungen,
 Dabei ist zentral die Förderung der Nachhaltigkeit und Übertragbarkeit auf weitere Inhalts- und Anwendungsbereiche, unterstützt durch integrierte Feedbackmöglichkeiten für Studierende und Lehrende, unter Einbindung der notwendigen Hard- und Software-Infrastruktur. Wir folgen weiterhin primär der Idee der FAIR-Prinzipien (Findability, Accessibility, Interoperability, Reuse of digital assets; Clark et al., 2016), um Nutzen und Zugänglichkeit bereitgestellter Materialien zu maximieren.
 
 ![Abb. 1: Herausforderungen der Lehre](https://raw.githubusercontent.com/DiLER-Digitell/Diler-Digitell.github.io/main/images/Folie5.JPG)
+
 *Abb. 1: Herausforderungen der Lehre*
 
 
@@ -37,9 +38,7 @@ Das Vorhaben wird dabei in 4 Teilziele aufgeteilt, wobei der Fokus unter der Ver
 *Abb. 2: Ziele von DiLER*
 
 
-
 ## **Zielsetzung**
-
 
 
 Etablierung eines digitalen und interaktiven Frameworks (Jupyter Book) für die Lehre, basierend auf realen, offenen Datensätzen und open-source tools (“Jupyter-Framework”, “MNE”, “Nilearn” etc.), sowie die Bereitstellung des Frameworks als digitale Kursvorlage (“GitHub-Repository”)
