@@ -50,7 +50,7 @@ In today's digital world, it is essential to have a basic understanding of the t
 
 This course provides an introduction to the field of cognitive and computational neuroscience, with a focus on the use of machine and deep learning techniques to analyze neuroscientific data.
 
-* [Python for Psychologists]([https://peerherholz.github.io/Python_for_Psychologists_Winter2021](https://m-earnest.github.io/Python_for_Psychologists_Winter2022/))
+* [Python for Psychologists](https://m-earnest.github.io/Python_for_Psychologists_Winter2022/)
 
 This course is designed for psychologists and other behavioral scientists who are interested in using Python for their research. The course covers the basics of Python programming, including data structures, control structures, and functions, as well as more advanced topics such as data analysis and visualization.
 
