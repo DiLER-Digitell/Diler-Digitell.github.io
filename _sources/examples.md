@@ -1,9 +1,9 @@
 # Further Resources under the DiLER Project
 
-The DiLER Project has produced numerous valuable resources for individuals interested in modern and flexible teaching, digital literacy, and university courses. Below is a non-exhaustive list of what we have to offer:
+The DiLER Project has produced a number of resources for individuals interested in modern and flexible teaching, digital literacy, and scientific research. Below is a non-exhaustive list of what we have to offer:
 
 ## Tutorials
-* [How to use Jupyter Book for modern, flexible teaching](https://github.com/felixkoerber/jb)
+* [How to use Jupyter Book for modern, flexible teaching](https://diler-digitell.github.io/Jupyter-Book/s)
 
 Get started with using Jupyter Book to create beautiful, interactive books and documents. This tutorial will guide you through the process of using Jupyter Book to produce dynamic content that is perfect for modern teaching.
 
@@ -15,7 +15,7 @@ This course template is designed to make it easy for you to create a course that
 
 * [Course for digital literacy](https://m-earnest.github.io/Diler_digital_literacy)
 
-In today's digital world, it is essential to have a basic understanding of the technologies and tools that we use on a daily basis. This course is designed to give you an overview of the most important concepts and skills in digital literacy.
+In today's digital world, it is essential to have a basic understanding of the technologies and tools that we use on a daily basis. This course is designed to give you an overview of the most essential concepts and skills in digital literacy.
 
 ## University Courses
 
@@ -23,12 +23,14 @@ In today's digital world, it is essential to have a basic understanding of the t
 
 This course provides an introduction to the field of cognitive and computational neuroscience, with a focus on the use of machine and deep learning techniques to analyze neuroscientific data.
 
-* [Python for Psychologists](https://peerherholz.github.io/Python_for_Psychologists_Winter2021)
+* [Python for Psychologists]([https://peerherholz.github.io/Python_for_Psychologists_Winter2021](https://m-earnest.github.io/Python_for_Psychologists_Winter2022/))
 
 This course is designed for psychologists and other behavioral scientists who are interested in using Python for their research. The course covers the basics of Python programming, including data structures, control structures, and functions, as well as more advanced topics such as data analysis and visualization.
 
 * [Course on Empirical Research in Neurocognitive Psychology](https://peerherholz.github.io/EXPRA_Winter2021)
 
-This course provides an introduction to the methods and techniques used in empirical research in neurocognitive psychology. Topics covered include experimental design, data collection and analysis, and the interpretation of results.
+This course provides an introduction to the methods and techniques used in empirical research in neurocognitive psychology. Topics covered include experimental design, data collection, and analysis, and the interpretation of results.
 
-We hope that you find these resources useful and enjoyable. If you have any questions or feedback, please do not hesitate to reach out to us.
+We hope that you find these resources useful and enjoyable. If you have any questions or feedback, please do not hesitate to contact us.
+
+
