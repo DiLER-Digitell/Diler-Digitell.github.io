@@ -34,13 +34,13 @@ Below is a non-exhaustive list of what we have to offer:
 
 Get started with using Jupyter Book to create beautiful, interactive books and documents. This tutorial will guide you through the process of using Jupyter Book to produce dynamic content that is perfect for modern teaching.
 
-* [Course Template](https://github.com/M-earnest/course_template_diler)
+* [Course Template](https://github.com/DiLER-Digitell/Course-template)
 
 This course template is designed to make it easy for you to create a course that is well-structured, easy to navigate, and visually appealing. The template includes all of the necessary components for a complete course, including slides, handouts, assignments, and more.
 
 ## Digital literacy
 
-* [Course for digital literacy](https://m-earnest.github.io/Diler_digital_literacy)
+* [Course for digital literacy](https://diler-digitell.github.io/DiLER_digital_literacy_course/)
 
 In today's digital world, it is essential to have a basic understanding of the technologies and tools that we use on a daily basis. This course is designed to give you an overview of the most essential concepts and skills in digital literacy.
 
