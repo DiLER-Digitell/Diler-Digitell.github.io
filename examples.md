@@ -93,7 +93,6 @@ He/Him. If you want to reach out, skip the formalities and just use “Felix” 
 --------------------------------------
 
 If you have:
-
 **- questions about course content** - these are awesome! We want everyone to see them and have their questions answered too, so please use the [GitHub repository](https://github.com/DiLER-Digitell/Diler-Digitell.github.io/issues).
 
 
