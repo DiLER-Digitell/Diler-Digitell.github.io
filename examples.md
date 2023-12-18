@@ -4,7 +4,7 @@
 
 -------------------------------------------------
 
-**DiLER or Digital Literacy for Empirical Research aims to provide cost-free, open Educational Resources for students, early-stage researcher,s and teaching staff.**
+**DiLER or Digital Literacy for Empirical Research aims to provide cost-free, open Educational Resources for students, early-stage researchers, and teaching staff.**
 
 DiLER is a 2022 Partnership of the [Digital Teaching and Learning Lab“ (DigiTeLL)](https://www.uni-frankfurt.de/106206707/Projekt_DigiTeLL) hosted by the Goethe-University Frankfurt.
 
@@ -12,9 +12,9 @@ DiLER is a 2022 Partnership of the [Digital Teaching and Learning Lab“ (DigiTe
 
 ## Digital Literacy
 
-Students as well as researchers at all levels are nowadays necessarily dependent on digital skills & tools to adapt to the rapidly evolving scientific landscape.
+Students, as well as researchers at all levels, are nowadays necessarily dependent on digital skills & tools to adapt to the rapidly evolving scientific landscape.
 
-We aim to teach these skills through free online resources, to bridge the gap between the fortunate few profiting from Academia & Lab culture and the general (student) population.
+We aim to teach these skills through free online resources to bridge the gap between the fortunate few profiting from Academia and lab culture and the general (student) population.
 
 Further, we aim to make our resources as FAIR (Findable, Accessible, Interoperable, Reusable) as possible. We believe that the work that teaching staff puts into their courses and content should be made available as widely as possible, extending from the university to the people. The courses and course templates provided are built with the idea of sustainability in mind. Through the use of GitHub pages and Jupyter Books, we provide a permanent, citable online presence for the content we (and maybe you, if you adopt our learning design) create.
 
@@ -23,7 +23,7 @@ Further, we aim to make our resources as FAIR (Findable, Accessible, Interoperab
 
 ## Resources under the DiLER Project
 
-The DiLER Project has further produced a number of resources for individuals interested in modern and flexible teaching, digital literacy, and scientific research. Our courses are mainly conceptualized as self-paced, self-study resources. If you are interested in adapting some of the content for your own work, are interested in attending Workshops on the introduced topics, or would like to contribute to our project, please reach out to us via the information provided at the bottom of this site.
+The DiLER Project has produced several resources for individuals interested in modern and flexible teaching, digital literacy, and scientific research. Our courses are mainly conceptualized as self-paced, self-study resources. If you are interested in adapting some of the content for your own work, are interested in attending Workshops on the introduced topics, or would like to contribute to our project, please reach out to us via the information provided at the bottom of this site.
 
 -----------------------------------------------
 
@@ -36,13 +36,13 @@ Get started with using Jupyter Book to create beautiful, interactive books and d
 
 * [Course Template](https://github.com/DiLER-Digitell/Course-template)
 
-This course template is designed to make it easy for you to create a course that is well-structured, easy to navigate, and visually appealing. The template includes all of the necessary components for a complete course, including slides, handouts, assignments, and more.
+This course template is designed to make it easy for you to create a well-structured, easy-to-navigate, and visually appealing course. The template includes all of the necessary components for a complete course, including slides, handouts, assignments, and more.
 
 ## Digital literacy
 
 * [Course for digital literacy](https://diler-digitell.github.io/DiLER_digital_literacy_course/)
 
-In today's digital world, it is essential to have a basic understanding of the technologies and tools that we use on a daily basis. This course is designed to give you an overview of the most essential concepts and skills in digital literacy.
+In today's digital world, it is essential to have a basic understanding of the technologies and tools we use daily. This course is designed to give you an overview of the most essential concepts and skills in digital literacy.
 
 ## University Courses
 
