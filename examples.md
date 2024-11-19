@@ -60,6 +60,12 @@ This course provides an introduction to the methods and techniques used in empir
 
 We hope that you find these resources useful and enjoyable. If you have any questions or feedback, please do not hesitate to contact us.
 
+## Workshops
+
+[Docker for Neuroscience](https://m-earnest.github.io/docker_workshop/index.html)
+
+A workshop on leveraging containerization solutions for reproducible science, created in collaboration with [Aaron Reer](https://github.com/AaronReer), supported by the [Open Science Initatitve of the Carl von Ossietzky Universität Oldenburg](https://uol.de/forschung/open-science). 
+
 -----------------------------------------------
 
 ### How to reach the content creators
