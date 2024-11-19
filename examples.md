@@ -62,7 +62,7 @@ We hope that you find these resources useful and enjoyable. If you have any ques
 
 ## Workshops
 
-[Docker for Neuroscience](https://m-earnest.github.io/docker_workshop/index.html)
+* [Docker for Neuroscience](https://m-earnest.github.io/docker_workshop/index.html)
 
 A workshop on leveraging containerization solutions for reproducible science, created in collaboration with [Aaron Reer](https://github.com/AaronReer), supported by the [Open Science Initatitve of the Carl von Ossietzky Universität Oldenburg](https://uol.de/forschung/open-science). 
 
