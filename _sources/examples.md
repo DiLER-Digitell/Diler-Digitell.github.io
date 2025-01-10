@@ -16,14 +16,14 @@ Students, as well as researchers at all levels, are nowadays necessarily depende
 
 We aim to teach these skills through free online resources to bridge the gap between the fortunate few profiting from Academia and lab culture and the general (student) population.
 
-Further, we aim to make our resources as FAIR (Findable, Accessible, Interoperable, Reusable) as possible. We believe that the work that teaching staff puts into their courses and content should be made available as widely as possible, extending from the university to the people. The courses and course templates provided are built with the idea of sustainability in mind. Through the use of GitHub pages and Jupyter Books, we provide a permanent, citable online presence for the content we (and maybe you, if you adopt our learning design) create.
+Further, we aim to make our resources as FAIR (Findable, Accessible, Interoperable, Reusable) as possible. We believe that the work that teaching staff puts into their courses and content should be made available as widely as possible, extending from the university to the people. The courses and course templates provided are built with the idea of sustainability in mind. Through the use of GitHub pages and , markdown files, and Jupyter Books, we provide a permanent, citable online presence for the content we (and maybe you, if you adopt our learning design) create.
 
 
 -----------------------------------------------
 
 ## Resources under the DiLER Project
 
-The DiLER Project has produced several resources for individuals interested in modern and flexible teaching, digital literacy, and scientific research. Our courses are mainly conceptualized as self-paced, self-study resources. If you are interested in adapting some of the content for your own work, are interested in attending Workshops on the introduced topics, or would like to contribute to our project, please reach out to us via the information provided at the bottom of this site.
+The DiLER Project has produced several resources for individuals interested in modern and flexible teaching, digital literacy, and scientific research. Our courses are mainly conceptualized as self-paced, self-study resources. If you are interested in adapting some of the content for your own work, are interested in attending workshops on the introduced topics, or would like to contribute to our project, please reach out to us via the information provided at the bottom of this site.
 
 -----------------------------------------------
 
@@ -65,6 +65,14 @@ We hope that you find these resources useful and enjoyable. If you have any ques
 * [Docker for Neuroscience](https://m-earnest.github.io/docker_workshop/index.html)
 
 A workshop on leveraging containerization solutions for reproducible science, created in collaboration with [Aaron Reer](https://github.com/AaronReer), supported by the [Open Science Initatitve of the Carl von Ossietzky Universität Oldenburg](https://uol.de/forschung/open-science). 
+
+* [Create Interactive Content](https://jannikahollmann.github.io/Create_Interactive_Content/)
+
+A workshop on creating interactive content for lecturers and teaching stuff using this [template](https://github.com/DiLER-Digitell/Course-template).
+
+* [Data Management](https://m-earnest.github.io/data_managment_os_days_marburg_2024/)
+
+  A workshop on data management including BIDS, G-Node/GIN, in cooperation with the [Open Science Initiative University Marburg](https://www.uni-marburg.de/de/mara/vernetzung/wissenschaftsgruppen/arbeitsgruppe-35/arbeitsgruppe-35-open-science-initiative-university-marburg-2018)
 
 -----------------------------------------------
 
