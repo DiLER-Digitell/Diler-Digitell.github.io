@@ -103,6 +103,17 @@ However, please let me know if you have a preferred way of interacting with othe
 ```{admonition} How to address one another?
 :class: dropdown
 He/Him. If you want to reach out, skip the formalities and just use “Felix” or “you”, as long as the content is respectful, fair, and constructive (I aim for the same when I reply). However, please let me know if you have a preferred way of interacting with other folks, including how you would like to be addressed, your pronouns, and the level of formality.
+```
+
+[Jannika Hollmann](https://github.com/JannikaHollmann)
+
+- Office hours: upon request
+- E-mail: `J.Hollmann@em.uni-frankfurt.de`
+- preferred mode of contact: vie e-mail
+
+```{admonition} How to address one another?
+:class: dropdown
+She/Her. If you want to reach out, skip the formalities and just use “Jannika” or “you”, as long as the content is respectful, fair, and constructive (I aim for the same when I reply). However, please let me know if you have a preferred way of interacting with other folks, including how you would like to be addressed, your pronouns, and the level of formality.
 
 --------------------------------------
 
