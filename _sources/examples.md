@@ -30,7 +30,7 @@ The DiLER Project has produced several resources for individuals interested in m
 Below is a non-exhaustive list of what we have to offer:
 
 ## Tutorials
-* [How to use Jupyter Book for modern, flexible teaching](https://diler-digitell.github.io/Jupyter-Book/)
+* [How to use Jupyter Book for modern, flexible teaching](https://diler-digitell.github.io/tutorial_jupyter_books)
 
 Get started with using Jupyter Book to create beautiful, interactive books and documents. This tutorial will guide you through the process of using Jupyter Book to produce dynamic content that is perfect for modern teaching.
 
