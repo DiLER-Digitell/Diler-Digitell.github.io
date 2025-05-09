@@ -12,7 +12,7 @@ DiLER is a 2022 Partnership of the [Digital Teaching and Learning Lab“ (DigiTe
 
 ## Digital Literacy
 
-Students, as well as researchers at all levels, are nowadays necessarily dependent on digital skills & tools to adapt to the rapidly evolving scientific landscape.
+Students, Educators, as well as researchers at all levels, are nowadays necessarily dependent on digital skills & tools to adapt to the rapidly evolving scientific landscape.
 
 We aim to teach these skills through free online resources to bridge the gap between the fortunate few profiting from Academia and lab culture and the general (student) population.
 
