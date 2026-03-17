@@ -66,7 +66,7 @@ We hope that you find these resources useful and enjoyable. If you have any ques
 
 - A workshop on leveraging containerization solutions for reproducible science, created in collaboration with [Aaron Reer](https://github.com/AaronReer), supported by the [Open Science Initatitve of the Carl von Ossietzky Universität Oldenburg](https://uol.de/forschung/open-science). 
 
-[“Working collaborative with Jupyter Book: An open-source tool to create open and flexible teaching/learning materials”,](https://luciebinder.github.io/ws-openness-2025/general-information/index.html)
+[Working collaborative with Jupyter Book](https://luciebinder.github.io/ws-openness-2025/general-information/index.html)
 
 - Collaborative coursework focusing on the didactic opportunities and benefits of using open and accessible teaching materials.
 
